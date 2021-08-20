@@ -1,0 +1,1 @@
+document.getElementById('h1mac').style.backgroundColor = 'red';
